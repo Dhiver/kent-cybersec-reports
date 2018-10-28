@@ -62,3 +62,7 @@ LaTeX sources can be found [here](reports/CO899_prez_src)
 
 
 Proof-of-concept can be found [here](https://github.com/Dhiver/SlowRate-HTTP2-DoS).
+
+### CO880 - Project and Dissertation 
+
+* [Dissertation - Investigating the Threats of IPv6-Based Botnets](reports/CO880_finaleDisseration_InvestigatingTheThreatsOfIPv6BasedBotnets_BastienDHIVER.pdf)
